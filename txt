@@ -1,0 +1,25 @@
+.Group10000075921{
+    position: absolute;
+    top:4250px;
+    height: 600px;
+    left:20px;
+    width: 400px;
+    height: 480px;
+}
+.Group1000007593{
+    position: absolute;
+    top:5250px;
+    height: 600px;
+    left:20px;
+    width: 400px;
+    height: 480px;
+}
+.Group1000007594{
+    position: absolute;
+    top:6250px;
+    height: 600px;
+    left:20px;
+    width: 400px;
+    height: 480px;
+
+}
