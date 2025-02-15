@@ -16,3 +16,9 @@ A responsive and modern real estate company website built using HTML, CSS, and B
 ![Screenshot 2025-02-16 003544](https://github.com/user-attachments/assets/23df2426-ab2a-426b-99eb-b4544b8caa14)
 
 
+![Screenshot 2025-02-16 003627](https://github.com/user-attachments/assets/7b420267-2800-4652-aada-54ebac49a092)
+![Screenshot 2025-02-16 003652](https://github.com/user-attachments/assets/a40e1b23-c13c-4123-878d-1bfaad36ac49)
+![Screenshot 2025-02-16 003712](https://github.com/user-attachments/assets/62e0670d-4c99-4a2e-bf71-d78e034e7e60)
+![Screenshot 2025-02-16 003728](https://github.com/user-attachments/assets/b4f33f83-9805-4e76-9971-d500d563d48a)![Screenshot 2025-02-16 003853](https://github.com/user-attachments/assets/56ce428a-8f67-4eb3-83c0-7c62610cd19d)
+
+![Screenshot 2025-02-16 003839](https://github.com/user-attachments/assets/e9ed2d52-11aa-4284-817e-f025a96e5c5a)
